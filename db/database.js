@@ -1,3 +1,3 @@
 module.exports = {
-    db: 'mongodb://localhost:27017/marks'
+    db:'mongodb+srv://readgps:883EDYuz8yyWbpZU@gpsmarker-pcjis.mongodb.net/test?retryWrites=true&w=majority'
   }
